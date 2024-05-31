@@ -1,1 +1,2 @@
 ### Задача №3: Postman Echo
+[![Java CI with Gradle](https://github.com/AlBokov/REST_assured_Postman_echo/actions/workflows/gradle.yml/badge.svg)](https://github.com/AlBokov/REST_assured_Postman_echo/actions/workflows/gradle.yml)
